@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">DevXanderCode</title><desc id="desc">Product engineering and intelligent systems, illustrated as connected product, AI, data, and cloud components.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#d6e1f5"/></pattern></defs>
+<rect width="1280" height="360" rx="14" fill="#f1f5ff"/>
+<rect x="760" width="520" height="360" fill="url(#dots)"/>
+<rect x="0" y="0" width="7" height="360" rx="3" fill="#254fd6"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="52" y="108" font-size="59" font-weight="700" letter-spacing="-2" fill="#112959">DevXanderCode</text>
+<text x="54" y="167" font-size="31" fill="#425c88">Product engineering.</text>
+<text x="54" y="209" font-size="31" fill="#425c88">Intelligent systems.</text>
+<path d="M54 254 H670" stroke="#bfd0ed"/>
+<text x="54" y="293" font-size="20" fill="#112959">Web, mobile &amp; cloud</text>
+<circle cx="261" cy="286" r="2.5" fill="#254fd6"/>
+<text x="279" y="293" font-size="20" fill="#112959">AI engineering</text>
+<circle cx="433" cy="286" r="2.5" fill="#254fd6"/>
+<text x="451" y="293" font-size="20" fill="#112959">System design</text>
+</g>
+<g fill="none" stroke="#bfd0ed" stroke-width="2">
+<path d="M921 101 H1003 Q1024 101 1024 122 V239 H1110"/>
+<path d="M859 131 V249 H1014"/>
+<path d="M1138 128 V173 H859"/>
+<path d="M1075 249 V290 H948"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
+<rect x="798" y="64" width="150" height="67" rx="10" fill="#ffffff" stroke="#bfd0ed"/>
+<text x="873" y="106" text-anchor="middle" fill="#112959">Product</text>
+<rect x="1061" y="64" width="153" height="64" rx="10" fill="#254fd6"/>
+<text x="1138" y="104" text-anchor="middle" fill="#ffffff">AI</text>
+<rect x="798" y="216" width="150" height="67" rx="10" fill="#ffffff" stroke="#bfd0ed"/>
+<text x="873" y="258" text-anchor="middle" fill="#112959">Data</text>
+<rect x="1014" y="206" width="200" height="67" rx="10" fill="#ffffff" stroke="#bfd0ed"/>
+<text x="1114" y="249" text-anchor="middle" fill="#112959">Cloud</text>
+</g>
+<g fill="#254fd6"><circle cx="1024" cy="173" r="5"/><circle cx="859" cy="173" r="5"/><circle cx="948" cy="290" r="4"/></g>
+</svg>
